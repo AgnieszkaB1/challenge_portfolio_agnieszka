@@ -20,7 +20,7 @@ Poprawiłabym opcje dostępne po wejściu w zakładkę "rozpocznij mecz". Dostep
 
 -Przy zmianie urzadzenia na surface duo i wyborze trybu podwojnego ekranu część tresci jest nieczytelna. Linia przebiega przez środek. Niemożliwy jest odczyt tekstu (np. imię, które jest wymagane podczas tworzenia nowego użytkownika)
 
--Na mniejszych urządzeniach mobilnych po rotacji ekranu ucina możliwość przełącznia jezyka i wylogowania się. Jest opcja zjechania w dół tego pola, jednak na pierwszy rzut oka nawet nie widać takiej możliwości. Rozwiązaniem mogłoby być przeniesienie tych dwóch przycisków w inne miejsce (np prawy, górny róg na niesbieskim tle).
+-Na mniejszych urządzeniach mobilnych po rotacji ekranu ucina możliwość przełącznia jezyka i/lub wylogowania się. Jest opcja zjechania w dół tego pola, jednak na pierwszy rzut oka nawet nie widać takiej możliwości. Rozwiązaniem mogłoby być przeniesienie tych dwóch przycisków w inne miejsce (np prawy, górny róg na niesbieskim tle).
 
 2.Działanie aplikacji
 
