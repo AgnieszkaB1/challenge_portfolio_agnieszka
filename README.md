@@ -36,4 +36,4 @@ Poprawiłabym opcje dostępne po wejściu w zakładkę "rozpocznij mecz". Dostep
 
 
 
-Dodatkowo, już poza zadniami, chciałam zwrócic uwagę na badanie stron przy użyciu DevToolsów. Pracuje na macu i moją główną przeglądarką internetową jest safari gdzie wygląda to trochę inaczej. Zanim odkryłam na czym polega mój błąd i przerzuciłam się na chrome miałam problem z niktórymi opcjami (niektórych do teraz nie znalazłam :d)
+Dodatkowo, już poza zadniami, chciałam zwrócic uwagę na badanie stron przy użyciu DevToolsów. Pracuje na macu i moją główną przeglądarką internetową jest safari gdzie wygląda to trochę inaczej. Zanim odkryłam na czym polega mój błąd i przerzuciłam się na chrome miałam problem z niktórymi opcjami (niektórych do teraz nie znalazłam :d). Moja ocena subtasku 4 na peoblmatyczny wynika więc raczej z tego powodu, po zmianie przęglądarki wszystko się zgadzało i było bardzo dobrze wytłumaczone.
