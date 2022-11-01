@@ -10,7 +10,7 @@ Na dzień dzisiejszy skupiam się na testowaniu manualnym, ale to wie, może w p
 ## Subtask 4 
 * Aplikacja ta, jak sama nazwa wskazuje, stworzona jest dla scoutów piłki nożnej. Nie ma jednak przeciwwskazań żeby korzytał z niej każdy, kto chce prowadzić ewidencję graczy i rozegranych przez nich meczów. Aplikacja jest czysta i przejrzysta. Ze względu na jej funkcję nie ma potrzeby dodawania zbędnych obrazków na stronie głównej. Istnieje możliwość stworzenia dokładnego profilu zawodnika oraz każdego rozegranego przez niego meczu. W raportach można odwzorować dokładny przebieg spotkania dla danego zawodnika ze wszystkimi akcjami przeprowadzonymi na boisku w czasie rzeczywistym. Odbywa się to na intuicyjnym planie boiska. W samym raporcie jest też miejsce na dokładniejsze opisanie całej rozgrywki. 
 
-Poprawiłabym opcje dostępne po wejściu w zakładkę "rozpocznij mecz". Dostepne przyciski mogłyby pokazywać do czego służą po najechaniu na nie. Użytkownik który nie zna jeszcze aplikacji działa trochę na ślepo nie wiedząc czego dokladnie może się spodziewać. Myślę, że dobrym rozwiązaniem byłaby też opcja dodania zdjęcia danego zawodnika. Przyspieszyłoby to odnlezienie go na liście.
+Poprawiłabym opcje dostępne po wejściu w zakładkę "rozpocznij mecz". Dostepne przyciski mogłyby pokazywać do czego służą po najechaniu na nie. Użytkownik który nie zna jeszcze aplikacji działa trochę na ślepo nie wiedząc czego dokladnie może się spodziewać. Dobrym pomysłem byłoby dodanie opcji przewinięcia meczu do tyłu, w razie gdyby scout nie zdążył dodać akcji na czas. Dodatkowo dodałabym też opcję dodania zdjęcia danego zawodnika. Przyspieszyłoby to odnlezienie go na liście. 
 
 * Wykryte błędy
 
