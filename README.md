@@ -1,4 +1,29 @@
 # challenge_portfolio_agnieszka
+# **SPIS TREŚCI**
+* [Zadanie 1](#task-1)
+* [Zadanie 2](#task-2)
+* [Zadanie 3](#task-3)
+
+
+# **Task 3**
+## Subtask 2 
+[Testowanie według planów testów i raportowanie błędów](https://docs.google.com/document/d/1Uo8seh3jUhqUISe2zzOeCuHPcDR4DSjkdFhPAHreebQ/edit?usp=share_link)
+# **Task 2** 
+## Subtask 1
+
+[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1zruE5uYCEHi5lA7CgPvwbE_OFJQusfp7rz6GvhzPcTc/edit?usp=share_link)
+
+## Subtask 2
+
+[Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/document/d/1apr1ixyxF0GCTytJUk68JiXe6GM79t9XkiTRDzp0LjM/edit?usp=share_link)
+
+## Subtask 3
+
+Test case'y systemtyzaują naszą wiedzę na temat danego projektu. Czytelnie napisane bezpośrednio pokazują nam jakie działania wywołują konkretne efekty. Dzięki temu wiemy dokładnie w którym momencie aplikacja nie odpowiada, tak jak życzył sobie tego klient, a jako że wszystkie nasze działania mamy zapisane krok po kroku to jesteśmy w stanie dojść do tego samego momentu po poprawkach i zobaczyć czy bug rzeczywiście został naprawiony (a przy okazji czy naprawa konkretnego elementu nie popsuła nam czegoś po drodze :D)
+
+## Subtask 4
+
+[Dla chętnych](https://docs.google.com/document/d/1mtB0XP-yVeUc0cYBEILwLDf9wCSBebS--EH6JedXCSI/edit?usp=share_link)
 # **Task 1** 
 ## Subtask 1
 9/10. Następnym razem bedzie max!
@@ -36,4 +61,3 @@ Poprawiłabym opcje dostępne po wejściu w zakładkę "rozpocznij mecz". Dostep
 
 
 
-Dodatkowo, już poza zadniami, chciałam zwrócic uwagę na badanie stron przy użyciu DevToolsów. Pracuje na macu i moją główną przeglądarką internetową jest safari gdzie wygląda to trochę inaczej. Zanim odkryłam na czym polega mój błąd i przerzuciłam się na chrome miałam problem z niktórymi opcjami (niektórych do teraz nie znalazłam :d). Moja ocena subtasku 4 na peoblmatyczny wynika więc raczej z tego powodu, po zmianie przęglądarki wszystko się zgadzało i było bardzo dobrze wytłumaczone.
