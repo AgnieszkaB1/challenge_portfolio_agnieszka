@@ -6,8 +6,14 @@
 
 
 # **Task 3**
+
 ## Subtask 2 
 [Testowanie według planów testów i raportowanie błędów](https://docs.google.com/document/d/1Uo8seh3jUhqUISe2zzOeCuHPcDR4DSjkdFhPAHreebQ/edit?usp=share_link)
+
+## Subtaks 3
+
+[Raport z przeprowadzonych testów](https://docs.google.com/document/d/17UqIgK6j8KvOEX0C2p4qAGlMr1F9hgzq18aijXYJ3fw/edit?usp=share_link)
+
 # **Task 2** 
 ## Subtask 1
 
