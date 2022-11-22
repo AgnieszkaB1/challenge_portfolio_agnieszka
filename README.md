@@ -3,7 +3,21 @@
 * [Zadanie 1](#task-1)
 * [Zadanie 2](#task-2)
 * [Zadanie 3](#task-3)
+* [Zadanie 4](task-4)
 
+
+# **Task 4**
+
+## Subtask 2
+[Testowanie eksploracyjne aplikacji mobilnych](https://docs.google.com/document/d/1OlbZJxA7RsKmtlFZJ2mkPBR91d6SDaSmXM7XaTUWi4Q/edit?usp=share_link)
+
+## Subtask 3
+
+Do czego służy aplikacja Focusly? 
+
+Aplikacja ta umożliwia nam wprowadzenie i praktykowanie medytacji, rozwoju wewnętrznego czy uważności. Na pewno dużym plusem jest fakt ze jest dostępna w formie mobilnej, można z niej krozystać w każdej chwili (o ile ma się dostęp do intenetu). Odbiorcą może byc każda osoba, która poszukuje wprowadzenia do medytacji, afirmacji albo porad związanych z rozwojem na wielu płaszczyznach. Myślę że skorzystają z niej zarówno osoby starsze jak i młode ponieważ interfejs jest czytelny i badrdzo inyuicyjny. Pozytywnym zaskoczeniem jest brak wyskakujących reklam nawet w podstawowej- darmowej- wersji. Osobiście brakuje mi funkcji pracy w trybie offline. Spotify czy YouTube pokazały nam że jest możliwość odtwarzania podcastów czy muzyki bez połącznia internetowego co w przypadku medytacji może być przydatne. Nie będą nas wtedy rozpraszały żadne bodźce zewnętrzne (a można też wyjechać na zadupie bez dobrego połączenia internetowego :wink:)
+
+Na chwilę obecną główną rożnicą jest dla mnie sam poziom trudności (który pewnie wynika z przyzwyczajenia do testowania aplikacji natywnych). Trzbe skupić się na trochę innych funkcjonalnościach jak chociażby możliwość pracy w tle czy sam sposob nawigacji po aplikacji. 
 
 # **Task 3**
 
