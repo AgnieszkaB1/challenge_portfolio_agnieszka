@@ -12,12 +12,12 @@
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/Zrzut%20ekranu%202022-11-28%20o%2023.03.31.png)
 #### 2. Wyświetl film, który powstał w 2019 roku.
-* SELECT * FROM MOVIES WHERE year_of_production =2019
+* SELECT * FROM MOVIES WHERE YEAR_OF_PRODUCTION =2019
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/2.png)
 
 #### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-* SELECT * FROM MOVIES WHERE year_of_production BETWEEN 1900 AND 1999
+* SELECT * FROM MOVIES WHERE YEAR_OF_PRODUCTION BETWEEN 1900 AND 1999
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/3.png)
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
@@ -25,8 +25,9 @@
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/4.png)
 #### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+* SELECT NAME, SURNAME FROM ACTORS WHERE ACTOR_ID IN (4,5,6,7) AND NOT ACTOR_ID IN (1,2,3)
 
-![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/5.png)
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/52.png)
 #### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 * SELECT * FROM CUSTOMERS WHERE CUSTOMER_ID IN (2,4,6) AND NOT CUSTOMER_ID = 5
 
