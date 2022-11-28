@@ -9,6 +9,8 @@
 # **Task 5**
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 * SELECT * FROM ACTORS ORDER BY SURNAME
+
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/Zrzut%20ekranu%202022-11-28%20o%2023.03.31.png)
 #### 2. Wyświetl film, który powstał w 2019 roku.
 * SELECT * FROM MOVIES WHERE year_of_production =2019
 
