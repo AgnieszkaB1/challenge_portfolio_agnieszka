@@ -8,27 +8,26 @@
 * [Zadanie 6](#task-6)
 
 # **Task 6**
+## Subtask 1
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 
 * Update customers set surname='Miler' where name='ania'
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/11.png)
 
 #### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+* Select name, email from customers inner join sale on customers.customer_id=sale.customer_id where movie_id=4
 
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/12.png)
 #### 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 * Update customers set email='pati@mail.com' where name='patrycja'
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/13.png)
 #### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+* Select name, surname, title from customers join sale on customers.customer_id=sale.customer_id join movies on sale.movie_id=movies.movie_id
 
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/14.png)
 #### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
-ŹLE!!!!  insert into customers (pseudonym) values
-('Ols')
-('Kal')
-('Anr')
-('Par')
-('Mao')
-('Nag')
+
 
 #### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 * SELECT distinct title FROM movies join sale 
@@ -39,13 +38,19 @@
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/17.png)
 #### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+* Update movies set price= price+2.5 where year_of_production>2000
 
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/18.png)
 #### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+* Select actors.name, actors.surname,movies.title from actors join cast on actors.actor_id=cast.actor_id left OUTER JOIN movies on cast.movie_id =movies.movie_id where actors.actor_id= 4
 
+![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/19.png)
 #### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
 * Insert into customers (customer_id,email,name,pseudonym,surname) values ('7', 'honia@mail.com', 'Honia', 'Hoa', 'Stuczka-Kucharska')
 
 ![](https://raw.githubusercontent.com/AgnieszkaB1/challenge_portfolio_agnieszka/main/20.png)
+## Subtask 2
+13/15
 # **Task 5**
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 * SELECT * FROM ACTORS ORDER BY SURNAME
